@@ -1,6 +1,6 @@
 {
     "client_version"  : 26,
-    "client_repo_url" : "https://github.com/AndyGrant/OpenBench",
+    "client_repo_url" : "https://github.com/ArjunBasandrai/OpenBench",
     "client_repo_ref" : "master",
 
     "use_cross_approval"          : false,
@@ -29,6 +29,7 @@
         "BlackMarlin",
         "Demolito",
         "Drofa",
+        "Elixir",
         "Equisetum",
         "Ethereal",
         "FabChess",
