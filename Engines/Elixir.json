@@ -1,11 +1,11 @@
 {
     "private" : false,
-    "nps"     : 1745135,
+    "nps"     : 1209553,
     "source"  : "https://github.com/ArjunBasandrai/elixir-chess-engine",
 
     "build" : {
         "path"      : "",
-        "compilers" : ["g++", "clang++"],
+        "compilers" : ["clang++"],
         "cpuflags"  : [],
         "systems"   : ["Windows"]
     },
