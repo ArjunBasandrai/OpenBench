@@ -5,7 +5,7 @@
 
     "build" : {
         "path"      : "",
-        "compilers" : ["clang++"],
+        "compilers" : ["g++", "clang++"],
         "cpuflags"  : [],
         "systems"   : ["Windows"]
     },
